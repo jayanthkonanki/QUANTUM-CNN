@@ -4,7 +4,7 @@
 [![Python](https://img.shields.io/badge/Python-3.11+-blue.svg)](https://www.python.org/downloads/)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-This repository presents a **Hybrid Quantum-Classical Convolutional Neural Network (Q-CNN)** for automated thoracic disease diagnosis from medical images. By combining the feature extraction strength of classical deep learning with the high-dimensional expressivity of Quantum Machine Learning (QML), the project demonstrates a scalable pipeline for real-world datasets such as **CheXpert**.
+This repository presents a **Hybrid Quantum-Classical Convolutional Neural Network (Q-CNN)** for automated finding of chest diseases from medical images. By combining the feature extraction strength of classical deep learning with the high-dimensional expressivity of Quantum Machine Learning (QML), the project demonstrates a scalable pipeline for real-world datasets such as **CheXpert**.
 
 ---
 
@@ -18,7 +18,7 @@ This repository presents a **Hybrid Quantum-Classical Convolutional Neural Netwo
 
 ## 🧠 Technical Architecture
 
-The system follows a **Parallel Residual Hybrid Design** to stabilize training and mitigate the *Barren Plateau* issue common in quantum circuits.
+The system follows a **Parallel Residual Hybrid Design** to stabilise training and mitigate the *Barren Plateau* issue common in quantum circuits.
 
 ### 1) Classical Feature Extraction
 
